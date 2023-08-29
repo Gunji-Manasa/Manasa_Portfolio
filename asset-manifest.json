@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Manasa_Portfolio/static/css/main.12c6711f.css",
-    "main.js": "/Manasa_Portfolio/static/js/main.163b8320.js",
+    "main.css": "/Manasa_Portfolio/static/css/main.bcd90e2a.css",
+    "main.js": "/Manasa_Portfolio/static/js/main.7706edcb.js",
     "static/js/787.128fc6e9.chunk.js": "/Manasa_Portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/Dice_Image.jpg": "/Manasa_Portfolio/static/media/Dice_Image.f9c682a668c7e6814e24.jpg",
     "static/media/Drums_Image.jpg": "/Manasa_Portfolio/static/media/Drums_Image.4a1081bacee646e923a2.jpg",
     "static/media/AboutIcon.png": "/Manasa_Portfolio/static/media/AboutIcon.452563807e03ae37d917.png",
     "static/media/Simon_Image.png": "/Manasa_Portfolio/static/media/Simon_Image.7da10f69b8f69d0bbacd.png",
     "index.html": "/Manasa_Portfolio/index.html",
-    "main.12c6711f.css.map": "/Manasa_Portfolio/static/css/main.12c6711f.css.map",
-    "main.163b8320.js.map": "/Manasa_Portfolio/static/js/main.163b8320.js.map",
+    "main.bcd90e2a.css.map": "/Manasa_Portfolio/static/css/main.bcd90e2a.css.map",
+    "main.7706edcb.js.map": "/Manasa_Portfolio/static/js/main.7706edcb.js.map",
     "787.128fc6e9.chunk.js.map": "/Manasa_Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12c6711f.css",
-    "static/js/main.163b8320.js"
+    "static/css/main.bcd90e2a.css",
+    "static/js/main.7706edcb.js"
   ]
 }
