@@ -14,7 +14,7 @@ function Navbar(){
       <div class="navbar-nav">
       
 
-        <a class="nav-link"  href="#"><HomeOutlinedIcon className='nav-icon'/>Home</a>
+        <a class="nav-link"  href="#sec1"><HomeOutlinedIcon className='nav-icon'/>Home</a>
         <a class="nav-link"  href="#fun"><TagFacesIcon className='nav-icon'/>Fun</a>
         <a class="nav-link"  href="#about"><PersonOutlineOutlinedIcon className='nav-icon' />About</a>
         <a class="nav-link"  href="#feedback"><FeedbackOutlinedIcon className='nav-icon' />Feedback</a>

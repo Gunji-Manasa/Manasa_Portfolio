@@ -26,7 +26,7 @@
   margin-right: 25px;
 }
 .nav-icon{
-  padding-bottom: 2%;
+  padding-bottom: 0.2rem;
 margin-right: 7px;
 }
 .nav-link:hover{
@@ -95,7 +95,7 @@ margin-top: 3rem;
 text-align: center;
 }
 .skills{
-  color:#0088AD;
+  color:#00C4FF;
   font-size: 3rem;
   text-align: left;
   font-family:'Lucida Sans', 'Lucida Sans Regular';
@@ -149,7 +149,7 @@ text-align: center;
 
 #fun{
   /* height: 130vh; */
-  background-color: rgba(52, 2, 26, 0.457);
+  /* background-color: #33010f6d; */
   padding-bottom: 10%;
  
   /* background-image: linear-gradient(to bottom ,#2DD678,#37F0C8,#25C6DB,#29A2FF); */
@@ -159,7 +159,7 @@ text-align: center;
 
  /* font-size: 5rem; */
   /* background-color:#F11A7B ; */ 
-   color: #F11A7B;
+   color: #F31559 ;
   text-align: center;  
 }
 @media (max-width:767px){
@@ -182,15 +182,15 @@ justify-content: center;
 }
 .card {
   margin-left: 50px;
-  box-shadow: 1px 2px 3px 1px #F11A7B ;
+  box-shadow: 1px 2px 3px 1px #F31559 ;
   color: white !important;
   background-color: transparent ; 
-  border: solid 2px #F11A7B;
+  border: solid 2px #F31559;
  
 }
 .card:hover{
   transform: scale(1.03);
-  box-shadow: 0px 0px 5px 5px #F11A7B;
+  box-shadow: 0px 0px 5px 5px #F31559;
   
 }
 @media (max-width:767px){
@@ -226,12 +226,12 @@ justify-content: center;
 }
 
 .btn{
-  background-color: #F11A7B;
+  background-color: #F31559;
   color:white;
   
 }
 .btn:hover{
-  box-shadow: 0px 0px 5px 5px #F11A7B;
+  box-shadow: 0px 0px 5px 5px #F31559;
   
 }
 .card-img-top{
@@ -344,14 +344,14 @@ padding-left: 200px;
 
 #feedback{
   /* height: 100vh; */
-  background-color: rgba(52, 2, 26, 0.457);
+  background-color: #33010f6d;
 }
 .feedbackTitle{
   /* font-size: 5rem; */
   /* background-color: #F11A7B; */
   padding-top: 6rem;
   margin-bottom: 50px;
-  color:#F11A7B;
+  color:#F31559;
   text-align: center;
 }
 .feed-text{
@@ -363,15 +363,15 @@ padding-left: 200px;
 }
 
 .pink{
-  color: #F11A7B;
+  color: #F31559;
 }
 .btn-lg{
-  background-color: #F11A7B;
+  background-color: #F31559;
   
 
 }
 .btn-lg:hover{
-  box-shadow: 0px 0px 5px 5px #F11A7B;
+  box-shadow: 0px 0px 5px 5px #F31559;
   transform: scale(1.03);
   color: white;
 }
@@ -388,7 +388,7 @@ padding-left: 200px;
   margin-bottom: 15px;
 }
 .connect b{
-  color: #F11A7B;
+  color: #F31559;
 }
 .icon-connect{
   margin: 1rem;
@@ -409,7 +409,7 @@ padding-left: 200px;
 
 .icon-connect:hover{
   
-  box-shadow: 0px 0px 5px 5px #F11A7B;
+  box-shadow: 0px 0px 5px 5px #F31559;
   color: #ffffff;
 } 
 @media (max-width:767px){
@@ -425,7 +425,7 @@ padding-left: 200px;
 
 
 .footer {
-  background-color: #F11A7B;
+  background-color: #F31559;
   bottom: 0 ;
   padding-top: 10px ;
   padding-bottom: 8px ;
