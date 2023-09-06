@@ -1,7 +1,7 @@
 
 #sec1{
  
-  background-color: rgba(1, 21, 68, 0.454);
+  background-color: rgba(42, 1, 68, 0.454);
   padding-bottom: 130px;
 }
 
@@ -13,7 +13,10 @@
   box-shadow: 0px 10px 10px 0px rgba(9, 5, 29, 0.171) !important;
   backdrop-filter: blur(15px) !important;
 }
-
+.navbar-toggler-icon{
+ 
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0,212,255,1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
 .navbar-nav{
   margin-left: auto;
   margin-right: auto;
@@ -31,6 +34,10 @@ margin-right: 7px;
 }
 .nav-link:hover{
   color: cyan;
+  text-decoration: underline #F31559 ;
+  text-underline-offset: 0.5em;
+  text-decoration-thickness: 3px;
+  
   
 }
 
@@ -149,7 +156,7 @@ text-align: center;
 
 #fun{
   /* height: 130vh; */
-  /* background-color: #33010f6d; */
+  background-color: rgba(52, 1, 36, 0.421);
   padding-bottom: 10%;
  
   /* background-image: linear-gradient(to bottom ,#2DD678,#37F0C8,#25C6DB,#29A2FF); */
@@ -159,7 +166,7 @@ text-align: center;
 
  /* font-size: 5rem; */
   /* background-color:#F11A7B ; */ 
-   color: #F31559 ;
+   color: #F11A7B;
   text-align: center;  
 }
 @media (max-width:767px){
@@ -174,6 +181,12 @@ padding-top: 2%;
 .fun-row{
   align-items: center;
 justify-content: center;
+padding-top: 60px;
+}
+.fun-row2{
+  align-items: center;
+justify-content: center;
+padding-top: 60px;
 }
 .fun-card{
   height: auto;
@@ -182,7 +195,7 @@ justify-content: center;
 }
 .card {
   margin-left: 50px;
-  box-shadow: 1px 2px 3px 1px #F31559 ;
+  box-shadow: 1px 2px 3px 1px #F11A7B;
   color: white !important;
   background-color: transparent ; 
   border: solid 2px #F31559;
@@ -193,6 +206,7 @@ justify-content: center;
   box-shadow: 0px 0px 5px 5px #F31559;
   
 }
+
 @media (max-width:767px){
 
   .card{
@@ -200,6 +214,7 @@ justify-content: center;
     margin-right: auto;
   }
 }
+
 @media (max-width: 767px) {
  
   .funpage h2{
@@ -208,6 +223,8 @@ justify-content: center;
   }
  
 }
+
+
 @media (max-width:768px){
   .fun-card {
     justify-content: center;
@@ -216,11 +233,15 @@ justify-content: center;
     margin: 2% 5% 10% 2%;
   }
 }
+@media (max-width:767px) {
+  .fun-row2{
+    padding-top: 2%;
+  }
+}
 @media (min-width:768px) and (max-width: 1200px){
  .fun-card {
     justify-content: center;
     align-items: center;
-  ;
     margin: 5% 5% 10% 5%;
   }
 }
@@ -245,7 +266,7 @@ justify-content: center;
 #about{
   
   /* height: 270vh; */
-  background-color: rgba(1, 21, 68, 0.454);
+  background-color: rgba(1, 50, 68, 0.454);
 }
 /* .about-title{
   padding-top: 4rem;
@@ -261,11 +282,11 @@ color: #ffffff;
 padding-bottom: 40px;
 }
 .about-me{
-  color:#00C4FF;
+  color:#2CD3E1  ;
   
 }
 .blue{
-  color: #00C4FF;
+  color: #2CD3E1 ;
   font-weight: 600;
 }
 .about-activity {
@@ -275,7 +296,7 @@ padding-bottom: 40px;
 }
 .list{
   font-size: 20px;
-  color: #00C4FF;
+  color: #2CD3E1 ;
   font-weight: 600;
 }
 .about-image{
@@ -292,10 +313,11 @@ padding-left: 200px;
 
 
 .user-icon{
-  border: solid 3px #30A2FF;
+  border: solid 3.7px #2CD3E1  ;
+  border-radius: 5px;
   width: 200px;
   height: 200px;
- 
+ padding: 20px;
  
 }
 .user-icon:hover{
@@ -318,7 +340,7 @@ padding-left: 200px;
   margin: 15px ;
   padding: 10px ;
   vertical-align: middle;
-  border: 1.7px solid #30A2FF ;
+  border: 1.7px solid #2CD3E1 ;
   
   text-align: center ;
   border-radius: 5px ;
@@ -344,7 +366,7 @@ padding-left: 200px;
 
 #feedback{
   /* height: 100vh; */
-  background-color: #33010f6d;
+  background-color:rgba(42, 1, 68, 0.454);
 }
 .feedbackTitle{
   /* font-size: 5rem; */
@@ -396,13 +418,16 @@ padding-left: 200px;
   width: 2.5rem;
   height: 2.5rem;
   text-align: center;
+  /* background-image: linear-gradient((rgb(17, 255, 108))) !important; */
   
 }
+
 
 .iconLogo{
   margin-top: 0.4rem;
   margin-bottom: 0.4rem;
-  margin-right: 0.1rem;
+  margin-right: auto;
+  margin-left: auto;
   
  
 }
@@ -425,7 +450,7 @@ padding-left: 200px;
 
 
 .footer {
-  background-color: #F31559;
+  background-color: #79155B;
   bottom: 0 ;
   padding-top: 10px ;
   padding-bottom: 8px ;
