@@ -318,11 +318,13 @@ padding-left: 200px;
   width: 200px;
   height: 200px;
  padding: 20px;
+ transition: all 0.4s ease 0s !important;
  
 }
 .user-icon:hover{
   box-shadow: 0px 0px 5px 5px rgb(65, 201, 243);
   transform: scale(1.03);
+  overflow: hidden;
 }
 @media (max-width: 767px){
   .about-image{
@@ -347,10 +349,13 @@ padding-left: 200px;
   display: table ;
   overflow: hidden;
   color: white; 
+
+  transition: all 0.4s ease 0s !important;
 }
 .tech-icons:hover{
   box-shadow: 0px 0px 5px 5px rgb(65, 201, 243);
   transform: scale(1.03);
+  overflow: hidden;
 }
 .tech-headings{
   padding-top: 80px;
@@ -373,7 +378,7 @@ padding-left: 200px;
   /* background-color: #F11A7B; */
   padding-top: 6rem;
   margin-bottom: 50px;
-  color:#F31559;
+  color:#F11A7B;
   text-align: center;
 }
 .feed-text{
