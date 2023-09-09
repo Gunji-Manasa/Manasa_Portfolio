@@ -20,7 +20,7 @@ function Card(){
     <h5 class="card-title">Drum-Kit</h5>
     <p class="card-text">It is a musical fun containing various instruments which can be played by using mouse clicks or keyboard</p>
     <div style={{textAlign:"center"}}>
-    <a href="https://gunji-manasa.github.io/drum-kit/" className="card-button" class="btn">Have Fun</a>
+    <a href="https://gunji-manasa.github.io/drum-kit/" className="card-button" class="btn">Play</a>
     </div>
   </div>
 </div>
@@ -32,7 +32,7 @@ function Card(){
     <h5 class="card-title">Dice-Game</h5>
     <p class="card-text">This is a Dice game Consisting of two Players. Each time when u refresh the page it shows which player wins.</p>
     <div style={{textAlign:"center"}}>
-    <a href="https://gunji-manasa.github.io/Dice/" className="card-button" class="btn">Have Fun</a>
+    <a href="https://gunji-manasa.github.io/Dice/" className="card-button" class="btn">Try it</a>
     </div>
   </div>
 </div>
@@ -44,7 +44,7 @@ function Card(){
     <h5 class="card-title">Simon_Game</h5>
     <p class="card-text">This is a fun and memory game Consisting of four colors. It tests your memory and gives you joy.It is designed using javascript.</p>
     <div style={{textAlign:"center"}}>
-    <a href="https://gunji-manasa.github.io/Simon-Game/" className="card-button" class="btn">Have Fun</a>
+    <a href="https://gunji-manasa.github.io/Simon-Game/" className="card-button" class="btn">Play</a>
     </div>
   </div>
 </div>
