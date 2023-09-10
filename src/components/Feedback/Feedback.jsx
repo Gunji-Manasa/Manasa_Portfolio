@@ -10,8 +10,8 @@ function Feedback(){
     <h1 className="feedbackTitle" >Feedback</h1>
     <p className="feed-text">Please give me your <span className="pink"><b>Feedback.</b></span>
     </p>
-    <p className="feed-text">
-    It really <span className="pink"><b>helps</b></span> me in <span className="pink"><b>improving</b></span> this site.
+    <p  className="feed-text">
+    It really <span ><b className="pink">helps</b></span> me in <span className="pink"><b>improving</b></span> this site,
     </p>
     <p className="feed-text">
     and <span className="pink"><b>encourages</b></span> me in doing more such <span className="pink"><b>websites.</b></span>

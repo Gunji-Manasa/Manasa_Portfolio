@@ -12,7 +12,7 @@ export function ConnectMe(){
             <Row>
                 <Col>
                     <h2 >Find <b>me</b> on</h2>
-                    <h4>Feel free to <b>connect</b> with me.</h4>
+                    
                 </Col>
             </Row>
             

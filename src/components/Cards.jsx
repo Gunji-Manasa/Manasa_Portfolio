@@ -32,7 +32,7 @@ function Card(){
     <h5 class="card-title">Dice-Game</h5>
     <p class="card-text">This is a Dice game Consisting of two Players. Each time when u refresh the page it shows which player wins.</p>
     <div style={{textAlign:"center"}}>
-    <a href="https://gunji-manasa.github.io/Dice/" className="card-button" class="btn">Try it</a>
+    <a href="https://gunji-manasa.github.io/Dice/" className="card-button" class="btn">Try </a>
     </div>
   </div>
 </div>
@@ -41,7 +41,7 @@ function Card(){
 <div class="card h-100" style={{width: "18rem"}} >
   <img src={Simon_Image} class="card-img-top" alt="Simon-pic" />
   <div class="card-body">
-    <h5 class="card-title">Simon_Game</h5>
+    <h5 class="card-title">Simon-Game</h5>
     <p class="card-text">This is a fun and memory game Consisting of four colors. It tests your memory and gives you joy.It is designed using javascript.</p>
     <div style={{textAlign:"center"}}>
     <a href="https://gunji-manasa.github.io/Simon-Game/" className="card-button" class="btn">Play</a>
@@ -58,7 +58,7 @@ function Card(){
     <h5 class="card-title">Keep Note</h5>
     <p class="card-text">It is a simple interface which enables to add notes. It is designed using React.js.</p>
     <div style={{textAlign:"center"}}>
-    <a href="https://gunji-manasa.github.io/Keep-Note/" className="card-button" class="btn">Note it</a>
+    <a href="https://gunji-manasa.github.io/Keep-Note/" className="card-button" class="btn">Note </a>
     </div>
   </div>
 </div>

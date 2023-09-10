@@ -7,11 +7,11 @@ function MyDescription(){
     <p  style={{fontSize:"20px"}}>
         Hi Everyone, I'm <b className="blue">Manasa</b> from <b className="blue">Hyderabad,Telangana.</b>
     <br /><br />
-        I recently graduated with a <b className="blue">bachelor of Technology</b> in <b className="blue">CSE</b> from <b className="blue">ATRI</b> affiliated to <b className="blue">JNTUH.</b>
+        I recently graduated with a Bachelor's degree <b className="blue">(B.Tech)</b> in <b className="blue">Computer Science and Engineering</b> from <b className="blue">Aurora's Technological and Research Institute</b> affiliated to <b className="blue">JNTUH.</b>
    <br /><br />
         I'm very passionate in <span className="blue">coding</span> and <span className="blue">learning new Technologies.</span>
     <br /><br />
-        Apart from <span className="blue">studies</span>, I would like to
+        Apart from <span className="blue">studies</span>, I would like to do
         
     </p>
     <ul className="list">
