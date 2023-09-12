@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Manasa_Portfolio/static/css/main.2fcdae85.css",
+    "main.css": "/Manasa_Portfolio/static/css/main.b3010aa3.css",
     "main.js": "/Manasa_Portfolio/static/js/main.a346bbff.js",
     "static/js/787.128fc6e9.chunk.js": "/Manasa_Portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/Dice_Image.jpg": "/Manasa_Portfolio/static/media/Dice_Image.f9c682a668c7e6814e24.jpg",
@@ -9,12 +9,12 @@
     "static/media/AboutIcon.png": "/Manasa_Portfolio/static/media/AboutIcon.452563807e03ae37d917.png",
     "static/media/Simon_Image.png": "/Manasa_Portfolio/static/media/Simon_Image.7da10f69b8f69d0bbacd.png",
     "index.html": "/Manasa_Portfolio/index.html",
-    "main.2fcdae85.css.map": "/Manasa_Portfolio/static/css/main.2fcdae85.css.map",
+    "main.b3010aa3.css.map": "/Manasa_Portfolio/static/css/main.b3010aa3.css.map",
     "main.a346bbff.js.map": "/Manasa_Portfolio/static/js/main.a346bbff.js.map",
     "787.128fc6e9.chunk.js.map": "/Manasa_Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fcdae85.css",
+    "static/css/main.b3010aa3.css",
     "static/js/main.a346bbff.js"
   ]
 }
