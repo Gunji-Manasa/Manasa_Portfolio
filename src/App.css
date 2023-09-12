@@ -432,8 +432,6 @@ padding-left: 200px;
   margin-bottom: 0.4rem;
   margin-left: -0.05rem;
   
-  
- 
 }
 
 .icon-connect:hover{
@@ -447,6 +445,9 @@ padding-left: 200px;
     padding-left: 3%;
     padding-right: 3%;
    
+  }
+  .iconLogo{
+    margin-bottom:0.3rem ;
   }
 }
 
